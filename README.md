@@ -1,7 +1,5 @@
 
 ![Storybook Screenshot](img/373225.jpg)
-![Search logo](https://www.epo.org/searching-for-patents/technical/espacenet/espacenet.jpg)
-
 # Bicycle-Rental-System-Bisiklet-Kiralama-Sistemi-
 HASH TABLOSUNDA KELİME ARAMA
 This project is  contains the bicycle rental automation.
@@ -49,8 +47,6 @@ Aranan kelime fonksiyonlar yardımıyla global string dizinde aranacaktır.
 Çakışan kelimeler çıktı olarak verilecektir.
 Örneğin 52 değeri arandığında çıktı:
 
-![Hash_Table logo](https://www.sysadmins.lv/content/images/articles/hashtable-behind-the-scenes/linear-probing-search.png)
-
       Aranan değer 6. indiste bulunmaktadır.
       Kelime 5 kez boş yer aramış.  5. denemedeki yere yerleşmiş. 
 
@@ -61,10 +57,8 @@ ________________________________________________________________________________
 İletişim
 ------------------------------
 
-2015141003@cumhuriyet.edu.tr
+Atacem BAKIR    :2015141049@cumhuriyet.edu.tr
+Recep KARADEMİR :2015141003@cumhuriyet.edu.tr
+Çınar UYGUN     :2015141034@cumhuriyet.edu.tr
+Fatih BİLGİN    :2015141036@cumhuriyet.edu.tr
 
-www.recepkarademir.com
-
-https://recepkarademir.blogspot.com.tr
-
-https://recepkarademir.wordpress.com
