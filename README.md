@@ -1,12 +1,10 @@
 
 ![Storybook Screenshot](img/373225.jpg)
-# Bicycle-Rental-System-Bisiklet-Kiralama-Sistemi-
-HASH TABLOSUNDA KELİME ARAMA
+# Bicycle Rental System-Bisiklet Kiralama Sistemi
 This project is  contains the bicycle rental automation.
 ------------------------------
-1 Aralık 2017	 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
+Mart 2018	 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
 
-Recep KARADEMİR
 ____________________________________________________________________________________________________________________________________
 
 Özet:
