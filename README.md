@@ -1,5 +1,5 @@
 
-![Storybook Screenshot](img/373225.jpg)
+![Storybook Screenshot](img/3732256.jpg)
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) 2018
 # Bicycle Rental System-Bisiklet Kiralama Sistemi
