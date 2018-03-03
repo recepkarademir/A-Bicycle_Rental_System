@@ -1,0 +1,12 @@
+Tandem-iki kiþilik
+Þehir(Hybrit) bisikleti
+Yol(yarýþ) bisikleti
+Dað bisikleti
+Katlanabilir bisiklet
+Kar bisikleti(fat bike)
+Çocuk bisikleti
+________________________
+Yukarýdakiler kiralanabilir bisiklet çeþitleridir.
+
+Firma elinde bulunan bisiklet çeþidini 0 girerse o tür
+bisikleti yoktur veya kiralamaya kapalýdýr demektir.

@@ -1,6 +1,5 @@
 
-![Storybook Screenshot](img/3732256.jpg)
-
+![Storybook Screenshot](img/watermark.jfif)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) 2018
 # Bicycle Rental System-Bisiklet Kiralama Sistemi
 This project is  contains the bicycle rental automation.
