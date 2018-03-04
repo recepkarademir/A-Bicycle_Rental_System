@@ -8,5 +8,4 @@ Kar bisikleti(fat bike)
 ________________________
 Yukarýdakiler kiralanabilir bisiklet çeþitleridir.
 
-Firma elinde bulunan bisiklet çeþidini 0 girerse o tür
-bisikleti yoktur veya kiralamaya kapalýdýr demektir.
+Firma elinde bulunan bisiklet çeþidini 0 girerse o tür bisikleti yoktur veya kiralamaya kapalýdýr demektir.
