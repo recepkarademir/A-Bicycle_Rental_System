@@ -8,7 +8,8 @@ ________________________________________________________________________________
 Özet:
 ------------------------------
 
-Ulaşım ve spor amaçlı bisiklet kullanımına uygun bölgelerde bisiklet kiralama hizmeti sunabilecek firmalara, bisikletlerini kullanıcılara kiralayabilen sistem hazırlanacaktır.
+Ulaşım ve spor amaçlı bisiklet kullanımına uygun bölgelerde bisiklet kiralama hizmeti sunabilecek firmalara, 
+bisikletlerini kullanıcılara kiralayabilen sistem hazırlanacaktır.
 
 Bu proje, toplumsal duyarlılık oluşturmak ve çevreci ulaşım araçlarının yaygınlaşması için seçilmiştir.
 
