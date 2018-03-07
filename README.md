@@ -55,13 +55,7 @@ Yönetici kullanıcı engelleme yetkisine sahiptir.
 SONUÇLAR
 ------------------------------
 
-Örneğin  çıktı:
-
-      .
-      . 
-
-
-şeklinde olacaktır.
+![driftgif](Photographs/gh.gif)
 ___________________________________________________________________________________________________________________________________
 
 İletişim
