@@ -16,8 +16,10 @@ GİRİŞ
 
 Çeşitli bisiklet türleri arasından en uygun bisiklet türü, ihtiyaca uygun kiralama 
 seçeneğiyle müşteriye sunulacaktır.
-     Doğayı korumak, kısa mesafeli seyahatlerde trafik sorununu azaltmak, park sorununu çözmek ve spor amaçlı bisiklet kullanımını artırmak hedeflenmektedir.
-     Diğer bisiklet kiralama sistemlerinde olduğu gibi bu sistemde de güvenlik,
+     
+Doğayı korumak, kısa mesafeli seyahatlerde trafik sorununu azaltmak, park sorununu çözmek ve spor amaçlı bisiklet kullanımını artırmak hedeflenmektedir.
+
+Diğer bisiklet kiralama sistemlerinde olduğu gibi bu sistemde de güvenlik,
 kontrol edilebilirlik, kolay kullanım sağlanacaktır. Kiralama sitesinde müşteri için yardımcı içerikler ve sistemi açıklayıcı materyaller kullanılacaktır. 
      Yönetici istediğinde bisiklet modellerini, özelliklerini, fiyat listesini ve kayıtlı kullanıcıları güncelleyebilecektir.
      Sistemin en optimize şekilde çalışabilmesi için yedek bisiklet bulundurma ve bazı kiralama kısıtları koyulacaktır.
