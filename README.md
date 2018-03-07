@@ -45,7 +45,8 @@ Bisiklet durum kontrolü yapılır ve doğrudan kiralama yapıldıysa ücret mü
    Müşteri görüşlerini diğer kullanıcılara ve yöneticiye BKS aracılığıyla ulaştırabilir.
 Yönetici geri dönüşleri dikkate alarak veya isteği üzerine fiyat listesini güncelleyebilir.
 Yönetici kullanıcı engelleme yetkisine sahiptir.
-/*    bu seçenekte süre bir günü geçemez.
+
+ *    bu seçenekte süre bir günü geçemez.
 
 
 
