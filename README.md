@@ -21,9 +21,9 @@ Doğayı korumak, kısa mesafeli seyahatlerde trafik sorununu azaltmak, park sor
 
 Diğer bisiklet kiralama sistemlerinde olduğu gibi bu sistemde de güvenlik,
 kontrol edilebilirlik, kolay kullanım sağlanacaktır. Kiralama sitesinde müşteri için yardımcı içerikler ve sistemi açıklayıcı materyaller kullanılacaktır. 
-     Yönetici istediğinde bisiklet modellerini, özelliklerini, fiyat listesini ve kayıtlı kullanıcıları güncelleyebilecektir.
-     Sistemin en optimize şekilde çalışabilmesi için yedek bisiklet bulundurma ve bazı kiralama kısıtları koyulacaktır.
-      Müşterinin aldığı hizmetten memnun olması ve bisiklet kiralama sistemini diğer insanlara önermesi beklenmektedir.
+Yönetici istediğinde bisiklet modellerini, özelliklerini, fiyat listesini ve kayıtlı kullanıcıları güncelleyebilecektir.
+Sistemin en optimize şekilde çalışabilmesi için yedek bisiklet bulundurma ve bazı kiralama kısıtları koyulacaktır.
+Müşterinin aldığı hizmetten memnun olması ve bisiklet kiralama sistemini diğer insanlara önermesi beklenmektedir.
 
 
 UYGULAMA
