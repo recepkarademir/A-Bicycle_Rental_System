@@ -1,4 +1,4 @@
-
+﻿
 ![Storybook Screenshot](Photographs/6.jfif)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat) 2018
 # Bicycle Rental System-Bisiklet Kiralama Sistemi
@@ -55,7 +55,7 @@ Yönetici kullanıcı engelleme yetkisine sahiptir.
 SONUÇLAR
 ------------------------------
 
-![driftgif](Photographs/gh.gif)
+![driftgif](Video/giff.gif)
 ___________________________________________________________________________________________________________________________________
 
 İletişim
