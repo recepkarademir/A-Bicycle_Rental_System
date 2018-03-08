@@ -55,7 +55,7 @@ Yönetici kullanıcı engelleme yetkisine sahiptir.
 SONUÇLAR
 ------------------------------
 
-![driftgif](Video/giff.gif)
+![driftgif](Video/drift.gif)
 ___________________________________________________________________________________________________________________________________
 
 İletişim
