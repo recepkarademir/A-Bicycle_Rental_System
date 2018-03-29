@@ -1,0 +1,5 @@
+Her ödeme ilişkisi yapıldığında servis no sıfılanır
+
+Bakım ücret= 50 tl olsun	 Ödeme turutarı = Servis no * bakım tutar
+
+Her ay servis no 1 den başlar.
