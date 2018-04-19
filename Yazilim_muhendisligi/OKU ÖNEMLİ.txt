@@ -6,7 +6,7 @@ Proje Sponsoru / Üst Yönetici : Ýsmail ARSLAN
 Yazýlým grubu        	 : Atacem BAKIR ve Çýnar UYGUN
 Veri tabaný tasarým      : Çýnar UYGUN
 Sistem testleri          : Fatih BÝLGÝN
-MÜÞTERÝ TEMSÝLCÝSÝ       : Furkan GÜVEN
+MÜÞTERÝ TEMSÝLCÝSÝ       : Furkan CANER
 
 Editör			 : Burak ÇITAK
 Þirketin diðer personelleri: 5 çalýþan.
