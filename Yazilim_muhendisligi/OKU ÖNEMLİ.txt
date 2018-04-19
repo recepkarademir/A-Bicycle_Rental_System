@@ -1,5 +1,6 @@
 Bu repository içerisindeki bütün dokümanlardan gerekli yardýmý alabilirsiniz.
 
+ASP.NET ile C# tabanlý bisiklet kiralama sistemi web sitesi.
 
 Proje Yöneticisi         : Recep KARADEMÝR
 Proje Sponsoru / Üst Yönetici : Ýsmail ARSLAN
