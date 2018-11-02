@@ -52,11 +52,6 @@ Yönetici kullanıcı engelleme yetkisine sahiptir.
 
 
 
-SONUÇLAR
-------------------------------
-
-Aldığı hizmetten memnun ve keyifli vakit geçirmiş müşteriler.
-
 ![driftgif](Video/driftgif.gif)
 ___________________________________________________________________________________________________________________________________
 
