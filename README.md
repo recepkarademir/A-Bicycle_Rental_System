@@ -50,9 +50,6 @@ Yönetici kullanıcı engelleme yetkisine sahiptir.
 
     *    bu seçenekte süre bir günü geçemez.
 
-
-
-![driftgif](Video/driftgif.gif)
 ___________________________________________________________________________________________________________________________________
 
 İletişim
