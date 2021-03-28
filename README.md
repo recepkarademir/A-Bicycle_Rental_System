@@ -55,10 +55,10 @@ ________________________________________________________________________________
 İletişim
 ------------------------------
 
-Recep KARADEMİR :2015141003@cumhuriyet.edu.tr<br>
-Atacem BAKIR    :2015141049@cumhuriyet.edu.tr<br>
-Çınar UYGUN     :2015141034@cumhuriyet.edu.tr<br>
-Fatih BİLGİN    :2015141036@cumhuriyet.edu.tr<br>
+Recep KARADEMİR :2015141003@cumhuriyet.edu.tr(kullanılamaz)<br>
+Atacem BAKIR    :2015141049@cumhuriyet.edu.tr(kullanılamaz)<br>
+Çınar UYGUN     :2015141034@cumhuriyet.edu.tr(kullanılamaz)<br>
+Fatih BİLGİN    :2015141036@cumhuriyet.edu.tr(kullanılamaz)<br>
 
 
 
